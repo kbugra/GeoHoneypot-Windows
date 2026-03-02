@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.key
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temp
+*.tmp
+*.bak
+
+# Generated logs
+logs/*.csv
